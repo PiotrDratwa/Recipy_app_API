@@ -1,4 +1,4 @@
-FROM python:3.9-alpine3.13
+FROM python:3.10-slim  
 LABEL maintainer = "Piotr Dratwa"
 
 ENV PYTHONUNBUFFERED 1
