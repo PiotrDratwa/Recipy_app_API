@@ -7,7 +7,8 @@ from rest_framework import status
 """
 
 """
-#commenting co it lets me push to github, the user api is not yet implemented so test will fail obviously
+#commenting co it lets me push to github,
+#the user api is not yet implemented so test will fail obviously
 
 CREATE_USER_URL = reverse('user:create')
 
